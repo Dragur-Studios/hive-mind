@@ -1,0 +1,13 @@
+NumPy: https://numpy.org/doc/
+Pandas: https://pandas.pydata.org/pandas-docs/stable/
+Matplotlib: https://matplotlib.org/stable/contents.html
+Scikit-learn: https://scikit-learn.org/stable/documentation.html
+TensorFlow: https://www.tensorflow.org/guide
+PyTorch: https://pytorch.org/docs/stable/index.html
+Keras: https://keras.io/
+Requests: https://docs.python-requests.org/en/latest/
+Flask: https://flask.palletsprojects.com/en/2.1.x/
+Django: https://docs.djangoproject.com/en/stable/
+BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Scrapy: https://docs.scrapy.org/en/latest/
+NLTK: https://www.nltk.org/
